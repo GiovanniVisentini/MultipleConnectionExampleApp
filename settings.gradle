@@ -1,0 +1,3 @@
+rootProject.name='MultipleConnection'
+include ':app'
+include ':BlueSTSDK:BlueSTSDK'
